@@ -469,7 +469,7 @@ function handleEscKey() {
 
 function handleTyping () {
   $(".element").typed({
-    strings: ["a Developer,","a Competitive Programmer,", "a hard-worker,," ,"a maths lover,","a founder,"] ,
+    strings: ["a Developer,","a Competitive Programmer,", "a hard-worker," ,"a maths lover,","a founder,"] ,
     typeSpeed: 50,
     starDelay: 200,
     backDelay: 600,
